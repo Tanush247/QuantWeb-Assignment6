@@ -89,4 +89,4 @@ Create at least 2 fully configured apps using `urls.py` and `views.py`. Commit t
 - You will be assessed based on your commits.
 - Resolve conflicts with `git pull`, then `git add .`, `git commit -m "Your Message"`, and `git push`.
 
-**Deadline:** 16th June EOD.
+**Deadline:** 17th June EOD.
